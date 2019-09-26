@@ -1,2 +1,2 @@
 FROM busybox:latest
-RUN wget http://www.kafkatool.com/download2/kafkatool.dmg
+RUN wget https://nchc.dl.sourceforge.net/project/ultimateedition/ultimate-edition-6.5-x64.iso
