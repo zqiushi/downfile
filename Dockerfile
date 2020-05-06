@@ -1,2 +1,2 @@
 FROM busybox:latest
-RUN wget https://ayera.dl.sourceforge.net/project/ultimateedition/ultimate-edition-6.5-x64.iso
+RUN wget https://apps.ankiweb.net/downloads/current/anki-2.1.15-mac.dmg 
