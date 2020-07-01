@@ -1,2 +1,4 @@
 FROM busybox:latest
-RUN wget https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.0/PicGo-2.3.0-beta.0.dmg 
+ENV File "https://tunnelblick.org/release/Tunnelblick_3.7.7_build_5150.dmg"
+
+RUN wget $File
