@@ -1,2 +1,2 @@
 FROM busybox:latest
-RUN wget https://apps.ankiweb.net/downloads/current/anki-2.1.15-mac.dmg 
+RUN wget https://tunnelblick.org/release/Tunnelblick_3.7.8beta02_build_5170.dmg 
