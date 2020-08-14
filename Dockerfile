@@ -1,4 +1,4 @@
 FROM busybox:latest
-ENV File "https://github.com/tencentyun/cos_migrate_tool_v5/archive/master.zip"
+ENV File "https://tunnelblick.org/release/Tunnelblick_3.7.8beta02_build_5170.dmg" 
 
 RUN wget $File
