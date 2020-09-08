@@ -1,2 +1,2 @@
 FROM busybox:latest
-RUN wget https://tunnelblick.org/release/Tunnelblick_3.7.8beta02_build_5170.dmg 
+RUN wget https://docs.python.org/3.7/archives/python-3.7.9-docs-html.zip
